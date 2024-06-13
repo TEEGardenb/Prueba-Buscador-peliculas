@@ -1,3 +1,7 @@
+# Preview
+
+![Design preview for the Space tourism website coding challenge](./src/images/preview.png)
+
 ## Enunciado
 
 Crea una aplicación para buscar películas
